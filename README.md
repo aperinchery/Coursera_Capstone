@@ -1,7 +1,7 @@
 # Coursera_Capstone
 Final project for final course for IBM data science certificate 
 # Week 4 Assignment. 
-###Capstone Final project, Part 1
+### Capstone Final project, Part 1
 
 #1. _A description of the problem and a discussion of the background_ 
 
