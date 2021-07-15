@@ -13,6 +13,14 @@ Seattle is a bustling, sprawling metropolitan city with engineers and developers
 I will use Foursquare Venue Data to identify where the market is most saturated with coffee shops and where there might be room for another coffee shop. Areas with fewer than 10 venues will be excluded from the analysis (as on inspection, these are often areas that are largely parks or low population areas). I will also rank the venues in each neighborhood by most popular venues. For example, a neighborhood where the three most popular venues are a restaurant, yoga studio and book store very likely has room for another coffee shop. A neighborhood where the most popular venues are coffee shops, bistros and cafes may not. It is with these criteria that I will determine the best neighborhood to establish a new coffee shop.
 
 ## **Methodology**
+![image](https://user-images.githubusercontent.com/33702789/125815839-82a03afc-a264-4bbf-aec7-79e635347b9d.png)
+
+![image](https://user-images.githubusercontent.com/33702789/125815877-c833152d-8dc5-44d5-a9f0-75a3cced18ed.png)
+
+![image](https://user-images.githubusercontent.com/33702789/125815908-04f422a8-af20-4abb-8272-0604e1f42d6e.png)
+
+![image](https://user-images.githubusercontent.com/33702789/125815924-6cff0879-8c9b-4854-bc94-28a814e9ae8a.png)
+
 
 ## **Results**
 
